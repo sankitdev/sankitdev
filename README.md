@@ -20,7 +20,7 @@
 
 I'm a passionate developer eager to learn and create amazing things with code. I love the challenge of building web applications from start to finish and seeing them come to life. 
 
-When I'm not coding, you might find me with my nose in a book (I'm particularly fond of history, philosophy, and science), exploring new technologies, contributing to open-source projects, or sipping on a cup of chai. 🍵📚
+When I'm not coding, you might find me with my nose in a book (I'm particularly fond of history, philosophy, and science), exploring new technologies, contributing to open-source projects.📚
 
 ---
 
