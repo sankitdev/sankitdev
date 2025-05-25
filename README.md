@@ -1,12 +1,12 @@
-### **Ankit Singh | Aspiring Full-Stack Developer**
+### **Ankit Singh**
 
-🚀 **MERN Stack Enthusiast | JavaScript Explorer**
+🚀 **Building cool stuffs**
 
 ---
 
 ### **About Me**
 
-I'm an aspiring full-stack developer with a strong focus on the MERN stack. Currently, I'm honing my skills in **React**, **Node.js**, **Express**, and **MongoDB**.
+I'm building cool stuff.
 
 ### **Connect with Me**
 
